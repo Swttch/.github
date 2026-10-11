@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/315660622?s=200&v=4" alt="Swttch logo" width="88" height="88" />
-</p>
-
 <h1 align="center">Swttch</h1>
 
 <p align="center"><strong>A GUI for CLI coding agents.</strong></p>
